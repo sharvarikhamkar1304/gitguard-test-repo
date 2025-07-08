@@ -1,2 +1,0 @@
-// test secret: AKIAFAKETESTKEYEXAMPLE
-// Another dummy: AKIA1234567890NEWTEST
